@@ -1,0 +1,6 @@
+body { background:#222; color:lime; text-align:center; }
+.container { padding:20px; }
+.imagem { width:300px; margin-top:15px; }
+#foto {
+    width: 500px;
+}

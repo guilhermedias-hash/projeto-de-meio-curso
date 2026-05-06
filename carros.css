@@ -1,0 +1,12 @@
+body { background:#000; color:red; text-align:center; }
+.imagem { width:300px; }
+
+nav, a {
+    text-decoration: none;
+    color: red;
+
+    background-color: rgb(4, 4, 54);
+}
+#foto {
+    width: 500px;
+}
